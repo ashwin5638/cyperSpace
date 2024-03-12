@@ -1,0 +1,118 @@
+.container{
+    height: 300vh;
+    width: 100%;
+    background-image: url("img.png.jpg");
+    background-size: cover;
+}
+.img{
+    height: 60px;
+    width: 60px;
+}
+@font-face{
+    font-family: myFont;
+    src: url(rg.it.otf)
+}
+@font-face{
+    font-family: myFont1;
+    src: url(nasalrg.it.otf)
+}
+#nav-item1{
+  color: aliceblue;
+  font-family: myFont1;
+}
+#nav-item2{
+    color: aliceblue;
+    font-family: myFont1;
+}
+#nav-item3{
+    color: aliceblue;
+    font-family: myFont1;
+}
+#nav-item4{
+    color: aliceblue;
+    font-family: myFont1;
+}
+.logo-container{
+    height: 77vh;
+    width: 150vh;
+    background: linear-gradient(135deg,rgba(10, 10, 10, 0.1),rgba(0, 0, 0, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(82, 29, 29, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(202, 198, 198, 0.37);
+    border-radius: 20px;
+    text-align: center;
+}
+.img2 {
+    height: 64vh;
+    width: 60vh;
+}
+.head{
+    font-family: myFont;
+    color: aliceblue;
+    font-size: 20px;
+}
+.head1{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: myFont;
+    font-size: 25px;
+}
+.count-container{
+    height: 50vh;
+    width: 60vh;
+    background: linear-gradient(135deg,rgba(10, 10, 10, 0.1),rgba(0, 0, 0, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(82, 29, 29, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(202, 198, 198, 0.37);
+    border-radius: 20px;
+    text-align: center;
+}
+.card-container{
+    height: 30vh;
+    width: 30vh;
+    background: linear-gradient(135deg,rgba(10, 10, 10, 0.1),rgba(0, 0, 0, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(82, 29, 29, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(202, 198, 198, 0.37);
+    border-radius: 20px;
+    text-align: center;
+    margin: 15px;
+}
+.card-container1{
+    height: 30vh;
+    width: 30vh;
+    background: linear-gradient(135deg,rgba(10, 10, 10, 0.1),rgba(0, 0, 0, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(82, 29, 29, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(202, 198, 198, 0.37);
+    border-radius: 20px;
+    text-align: center;
+    margin: 15px;
+}
+.last-container{
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+}
+.card-container1{
+    text-align: center;
+}
+.head3{
+    color: white;
+    text-align: center;
+    font-family: myFont1;
+}
+.img3{
+    text-align: center;
+    height: 90px;
+    width: 90px;
+}
+.cyber-head{
+    text-align: center;
+    font-family: myfont;
+    color: white;
+}
